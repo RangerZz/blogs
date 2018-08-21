@@ -8,6 +8,5 @@ weight: 50
 comment: false
 mathjax: false
 ---
-
-Ranger的博客站
+Ranger的博客站。
 
